@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🤓 PhD at Tsinghua University. Research intern at Microsoft Research Asia. 
+- 🔭 I’m currently working on AI foundation models.
+
 <!--
 **YTianZHU/YTianZHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
