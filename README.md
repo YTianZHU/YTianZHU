@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🤓 PhD at Tsinghua University. Research intern at Microsoft Research Asia. 
+- 🤓 Tsinghua University. Research intern at Microsoft Research Asia. 
 - 🔭 I’m currently working on AI foundation models.
 
 <!--
