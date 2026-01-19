@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🤓 Research intern at Microsoft Research Asia. 
+- 🤓 Researcher at Microsoft Research Asia. 
 - 🔭 I’m currently working on AI foundation models.
 
 <!--
